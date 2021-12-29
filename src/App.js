@@ -25,7 +25,7 @@ import "./App.css";
                     <h1 className='text-center'>Calculator</h1>
                 </div>
                 <div className="row">
-                    <div id="calculator" className="col-md-3  offset-md-5 offset-1 shadow p-4 calculator">
+                    <div id="calculator" className="col-md-3 col-9 offset-md-5 offset-2 shadow p-4 calculator">
                         <div className="row">
                             <div className="col-10">
                                 <div className="row">

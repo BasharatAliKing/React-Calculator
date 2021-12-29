@@ -29,8 +29,8 @@ import "./App.css";
                         <div className="row">
                             <div className="col-10">
                                 <div className="row">
-                                    <div className="col p-3 pb-4 ml-3 king ">
-                                    <input text="text" value={Result}/>
+                                    <div className="col-12 p-3 pb-4  king ">
+                                    <input className="col-12" text="text" value={Result}/>
                                          
                                          
                                     </div>
